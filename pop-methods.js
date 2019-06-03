@@ -90,6 +90,21 @@ let push = ((arr, callBack) => {
 
 }); 
 
+let lastIndexOf = ((arr, callBack) => {
+
+});
+
+let grabKeys = ((obj) => {
+
+}); 
+let grabValues = ((obj) => {
+
+}); 
+
+
+
+
+
 /*
 Object.grabkeys = function(myObj) {
   
