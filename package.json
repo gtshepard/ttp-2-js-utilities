@@ -1,0 +1,9 @@
+{
+    "name": "pop-methods",
+    "version": "0.0.1",
+    "description": "implement popular js methodse.",
+    "preferGlobal": "true",
+    "bin": { "compliment": "pop-methods.js" },
+    "author": "Garrison Shepard",
+    "engines": { "node": "*" }
+}
